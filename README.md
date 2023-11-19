@@ -8,7 +8,7 @@
    + Sources for Android 33
    * Intel x84 Atom Sustem Image
    - Google APIs Intel x86 Atom System Image
-   -Google APIs Intel x86_64 Atom System Image
+   * Google APIs Intel x86_64 Atom System Image
 
 ## Установка зависимостей 
 
