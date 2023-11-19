@@ -4,7 +4,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## запуск приложение
+## запуск приложения
 скачиваем репозиторий устанавливает node module
 нужна андройд студия в ней выбираем проект
 и запускаем через npm run android
