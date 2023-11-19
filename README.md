@@ -42,23 +42,7 @@ npm run ios
 yarn ios
 ```
 
-.
-├── src
-|   ├── components
-|   |   ├── Loading.jsx
-|   |   ├── LogoTitle.jsx
-|   |   └── SaveLoader.jsx
-|   ├── misc
-|   |   ├── imageApi.js
-|   |   └── usersApi.js
-|   ├── screens
-|   |   ├── FullPin.jsx
-|   |   ├── PinList.jsx
-|   |   └── Navigation
-|   └── store
-|       ├── limitImageStore.js
-|       ├── searchTextStore.js
-|       └── toggleColStore.js
+
 
 
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
