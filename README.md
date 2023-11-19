@@ -1,6 +1,6 @@
 ## Требования
 
-React Native v0.7+
+React Native 0.72.7
 NodeJS v16.16.0
 JDK 17.0.9
 Android Studio
