@@ -1,3 +1,15 @@
+## Требования
+
+React Native v0.7+
+NodeJS v16.16.0
+JDK 17.0.9
+Android Studio
+Android SDK 
+            Sources for Android 33
+            Intel x84 Atom Sustem Image
+            Google APIs Intel x86 Atom System Image
+            Google APIs Intel x86_64 Atom System Image
+
 ## Установка зависимостей 
 
 ```bash
