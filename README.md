@@ -31,6 +31,7 @@ yarn android
 ```bash
 # using npm
 npm run ios
+```
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
