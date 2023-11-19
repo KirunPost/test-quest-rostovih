@@ -1,14 +1,14 @@
 ## Требования
 
-React Native 0.72.7
-NodeJS v16.16.0
-JDK 17.0.9
-Android Studio
-Android SDK 
-            Sources for Android 33
-            Intel x84 Atom Sustem Image
-            Google APIs Intel x86 Atom System Image
-            Google APIs Intel x86_64 Atom System Image
+1. React Native 0.72.7
+1. NodeJS v16.16.0
+1. JDK 17.0.9
+1. Android Studio
+1. Android SDK 
+   _Sources for Android 33
+   _Intel x84 Atom Sustem Image
+   _Google APIs Intel x86 Atom System Image
+   _Google APIs Intel x86_64 Atom System Image
 
 ## Установка зависимостей 
 
