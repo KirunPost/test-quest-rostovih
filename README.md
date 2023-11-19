@@ -20,6 +20,18 @@ npm install
 yarn install
 ```
 
+| Name | Version       |
+|----------------------:|---------------|
+|                  axios|         ^1.6.2|
+|                   mobx|        ^6.11.0|
+|             mobx-react|         ^9.1.0|
+|        mobx-react-lite|         ^4.0.5|
+|                  react|         18.2.0|
+|           react-native|         0.72.7|
+|react-native-fast-image|         ^8.6.3|
+|       react-native-svg|        ^14.0.0|
+|    react-native-swiper|         ^1.6.0|
+
 ## Запуск Metro Server
 
 ```bash
@@ -52,17 +64,7 @@ yarn ios
 ```
 
 
-| Name | Version       |
-|----------------------:|---------------|
-|                  axios|         ^1.6.2|
-|                   mobx|        ^6.11.0|
-|             mobx-react|         ^9.1.0|
-|        mobx-react-lite|         ^4.0.5|
-|                  react|         18.2.0|
-|           react-native|         0.72.7|
-|react-native-fast-image|         ^8.6.3|
-|       react-native-svg|        ^14.0.0|
-|    react-native-swiper|         ^1.6.0|
+
 
 
 
