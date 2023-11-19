@@ -32,6 +32,12 @@ yarn android
 # using npm
 npm run ios
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
 # OR using Yarn
 yarn ios
 ```
